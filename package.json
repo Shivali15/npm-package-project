@@ -1,0 +1,33 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shivali15/npm-package-project.git"
+  },
+  "keywords": [
+    "npm",
+    "publish",
+    "package",
+    "registry"
+  ],
+  "author": {
+    "name": "Shivali umbarkar",
+    "email": "shivaliumbarkar450@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Shivali15/npm-package-project/issues"
+  },
+  "license": "ISC"
+}
